@@ -1,7 +1,6 @@
 **/lwc/**/*.css
 **/lwc/**/*.html
 **/lwc/**/*.json
-
 **/lwc/**/*.svg
 **/lwc/**/*.xml
 **/aura/**/*.auradoc
@@ -12,8 +11,6 @@
 **/aura/**/*.json
 **/aura/**/*.svg
 **/aura/**/*.tokens
-
 **/aura/**/*.xml
-
 **/aura/**/*.app
 .sfdx
